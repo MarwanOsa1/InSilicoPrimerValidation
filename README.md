@@ -79,7 +79,7 @@ python combine_results.py --output final_results.xlsx
 
 ## 📜 Citation
 If you use this repo, please cite:
-**Mousa, N., Osama, M., Talkhan, H. et al. A Novel Quadriplex Reverse Transcription PCR Assay for Robust SARS-CoV-2 Diagnosis and Variant Detection: Experimental Optimization for Enhanced Sensitivity and Specificity. J Anal Chem 80, 1471–1482 (2025). https://doi.org/10.1134/S1061934825700704****M. Osama Hashem et al., Journal of Analytical Chemistry, 2025**  
+**Mousa, N., Osama, M., Talkhan, H. et al. A Novel Quadriplex Reverse Transcription PCR Assay for Robust SARS-CoV-2 Diagnosis and Variant Detection: Experimental Optimization for Enhanced Sensitivity and Specificity. J Anal Chem 80, 1471–1482 (2025). https://doi.org/10.1134/S1061934825700704** 
 
 
 ---
