@@ -17,10 +17,10 @@ bases = ['A','C','G','T','N','R','Y']
 full_custom_matrix = {(b1,b2): custom_matrix.get((b1,b2), custom_matrix.get((b2,b1), -1)) for b1 in bases for b2 in bases}
 
 primer_pairs = [
-    ("Spike_Glycoprotein", "GGCTGTTTAATAGGGGCTGAAN", "AATCCATCATTGCCTACACTATG"),
-    ("Envelope_Protein", "GAYAGGTACGTTAATAGTTAATAGCG", "CGTGAGTCTTGTAAAACCTTCTTT"),
-    ("Nucleocapsid_Protein", "GCCTCTTCTCGTTCCTCATCAC", "TGAGAGCAAAATGTNTGGTAAAG"),
-    ("3'_UTR", "GTGTAACATTAGGGAGGACTTGA", "GCTGCCTATATGGAAGAGCC"),
+    ("Spike_Glycoprotein", "seq1", "seq2"),
+    ("Envelope_Protein", "seq3", "seq4"),
+    ("Nucleocapsid_Protein", "seq5", "seq6"),
+    ("3'_UTR", "seq7", "seq8"),
 ]
 primer_ranges = {
     "Spike_Glycoprotein": (22000, 24999),
